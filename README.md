@@ -3,7 +3,7 @@
 A private, client-side web app for matching resumes to job descriptions and coaching better bullet points. No installs, no server, no internet needed.
 
 ## Run it
-Double-click `index.html` (or open it in your browser from VS Code).
+resume-match-checker-tawny.vercel.app
 
 ## Use it
 1. **Upload or paste your resume** on the left and the full job posting on the right:
