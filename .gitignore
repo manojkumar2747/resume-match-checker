@@ -1,0 +1,13 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+
+# Temporary files
+*.tmp
+*.log

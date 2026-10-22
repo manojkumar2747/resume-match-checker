@@ -1,0 +1,63 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1302 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+50 750 Td
+(ARJUN KUMAR) '
+(Chennai, India | arjun.kumar@example.com | +91 98765 43210 | linkedin.com/in/arjunkumar | github.com/arjunk) '
+() '
+(SUMMARY) '
+(Computer science graduate with hands-on experience building Python applications and data dashboards. Looking to grow as a data professional.) '
+() '
+(EXPERIENCE) '
+(Junior Python Developer, TechNova Solutions \(Jun 2023 ? Present\)) '
+(- Developed internal reporting tools in Python and pandas that cut manual work by 40%) '
+(- Wrote SQL queries on MySQL to extract and clean sales data for 5 teams) '
+(- Built interactive dashboards with Power BI used by 20+ managers) '
+(- Collaborated with the product team in Agile sprints and used Git for version control) '
+(- Automated weekly Excel reports, saving about 6 hours per week) '
+() '
+(Data Intern, BrightMart Retail \(Jan 2023 ? May 2023\)) '
+(- Analyzed customer purchase data and presented insights to the sales team) '
+(- Responsible for cleaning datasets and helping with reports) '
+() '
+(EDUCATION) '
+(B.Tech in Computer Science, Anna University \(2019 ? 2023\)) '
+() '
+(SKILLS) '
+(Python, SQL, MySQL, pandas, NumPy, Power BI, Excel, Git, Flask, HTML, CSS) '
+() '
+(PROJECTS) '
+(Sales Forecasting App - Built a Flask app using scikit-learn to forecast monthly sales) '
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000001601 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1671
+%%EOF

@@ -1,0 +1,25 @@
+Data Analyst
+Acme Retail Analytics · Bengaluru (Hybrid)
+
+About us
+We help retailers make better decisions with data.
+
+Responsibilities
+- Analyze sales and customer data to find trends and insights
+- Build dashboards in Power BI or Tableau for business stakeholders
+- Write complex SQL queries to extract and clean data
+- Automate recurring reports using Python and Excel
+- Present findings to non-technical teams
+
+Requirements
+- 2+ years of experience in data analysis or a similar role
+- Strong knowledge of SQL and Python (pandas, numpy)
+- Experience with Tableau or Power BI
+- Bachelor's degree in Statistics, Computer Science, Engineering or related field
+- Excellent communication and problem-solving skills
+- Understanding of statistics and A/B testing
+
+Nice to have
+- Experience with AWS or Google BigQuery
+- Knowledge of machine learning basics
+- Familiarity with Git and Agile ways of working
